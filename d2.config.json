@@ -1,0 +1,10 @@
+{
+  "id": "",
+  "type": "app",
+  "name": "aggregate-data-exchange",
+  "title": "Data Exchange",
+  "minDHIS2Version": "2.39",
+  "coreApp": true,
+  "version": "1.0.0",
+  "description": ""
+}
