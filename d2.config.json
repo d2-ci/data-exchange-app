@@ -6,5 +6,8 @@
   "minDHIS2Version": "2.39",
   "coreApp": false,
   "version": "100.0.1",
-  "description": ""
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
 }
