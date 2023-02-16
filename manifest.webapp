@@ -4,7 +4,7 @@
   "short_name": "data-exchange",
   "name": "Data Exchange",
   "description": "",
-  "version": "100.0.1",
+  "version": "100.0.2",
   "core_app": false,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Tue Nov 08 2022 15:18:13 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Feb 16 2023 13:54:58 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
