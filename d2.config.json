@@ -4,7 +4,7 @@
   "name": "data-exchange",
   "title": "Data Exchange",
   "minDHIS2Version": "2.39",
-  "coreApp": true,
-  "version": "100.0.0",
+  "coreApp": false,
+  "version": "100.0.3",
   "description": ""
 }
