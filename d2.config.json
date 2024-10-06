@@ -5,7 +5,7 @@
   "title": "Data Exchange",
   "minDHIS2Version": "2.39",
   "coreApp": false,
-  "version": "100.9.8",
+  "version": "100.9.9",
   "description": "",
   "entryPoints": {
     "app": "index.html"
