@@ -1,0 +1,13 @@
+{
+  "id": "08012f21-0061-4e96-b49b-286e2743a8b4",
+  "type": "app",
+  "name": "data-exchange",
+  "title": "Data Exchange",
+  "minDHIS2Version": "2.39",
+  "coreApp": false,
+  "version": "100.10.1",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}
