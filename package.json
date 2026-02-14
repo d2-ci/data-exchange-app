@@ -1,0 +1,50 @@
+{
+    "name": "data-exchange-app",
+    "version": "100.11.4",
+    "description": "",
+    "license": "BSD-3-Clause",
+    "private": true,
+    "scripts": {
+        "build": "d2-app-scripts build",
+        "start": "d2-app-scripts start",
+        "start:nobrowser": "BROWSER=none d2-app-scripts start",
+        "test": "TZ=Etc/UTC d2-app-scripts test",
+        "deploy": "d2-app-scripts deploy",
+        "lint": "d2-style check",
+        "lint:staged": "d2-style check --staged",
+        "format": "d2-style apply",
+        "format:staged": "d2-style apply --staged",
+        "cypress:start": "REACT_APP_NODE_ENV=test yarn start:nobrowser",
+        "cypress:open:live": "start-server-and-test 'yarn cypress:start' http://localhost:3000 'yarn cypress open --env networkMode=live'",
+        "cypress:run:live": "start-server-and-test 'yarn cypress:start' http://localhost:3000 'yarn cypress run --env networkMode=live'",
+        "cypress:run:capture": "start-server-and-test 'yarn cypress:start' http://localhost:3000 'yarn cypress run --env networkMode=capture'",
+        "cypress:run:stub": "start-server-and-test 'yarn cypress:start' http://localhost:3000 'yarn cypress run --env networkMode=stub'"
+    },
+    "devDependencies": {
+        "@badeball/cypress-cucumber-preprocessor": "^16.0.0",
+        "@cfaester/enzyme-adapter-react-18": "^0.8.0",
+        "@cypress/webpack-preprocessor": "^5.17.0",
+        "@dhis2/cli-app-scripts": "^12.3.0",
+        "@dhis2/cli-style": "^10.7.6",
+        "@dhis2/cypress-commands": "^10.0.6",
+        "@dhis2/cypress-plugins": "^10.0.1",
+        "@faker-js/faker": "^8.4.1",
+        "@testing-library/dom": "^10.4.0",
+        "@testing-library/jest-dom": "^6.6.3",
+        "@testing-library/react": "^16.2.0",
+        "@testing-library/user-event": "^14.6.1",
+        "cypress": "^13.10.0",
+        "enzyme": "^3.11.0",
+        "start-server-and-test": "^1.14.0"
+    },
+    "dependencies": {
+        "@dhis2/analytics": "^26.7.9",
+        "@dhis2/app-runtime": "^3.13.1",
+        "@dhis2/ui": "^10.1.11",
+        "classnames": "^2.5.1",
+        "react-router-dom": "^6.4.1",
+        "use-query-params": "^2.1.1"
+    },
+    "resolutions": {},
+    "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
