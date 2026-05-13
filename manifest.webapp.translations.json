@@ -1,141 +1,140 @@
 [
   {
     "locale": "ar",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ar_IQ",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ckb",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "cs",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "da",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "en",
-    "translations": {
-      "APP_TITLE": "Data Exchange",
-      "APP_DESCRIPTION": ""
-    }
+    "shortcuts": {},
+    "title": "Data Exchange",
+    "description": ""
   },
   {
     "locale": "en_US",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "es",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "es_419",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "fr",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "hi_IN",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "id",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "km",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "lo",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "my",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "nb",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "nl",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "prs",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ps",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "pt",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "pt_BR",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ro",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ru",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "si",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "sv",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "tet",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "tg",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "uk",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "ur",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "uz_UZ_Cyrl",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "uz_UZ_Latn",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "vi",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "zh",
-    "translations": {}
+    "shortcuts": {}
   },
   {
     "locale": "zh_CN",
-    "translations": {}
+    "shortcuts": {}
   }
 ]
