@@ -1,6 +1,6 @@
 {
     "name": "data-exchange-app",
-    "version": "100.11.7",
+    "version": "100.11.8",
     "description": "",
     "license": "BSD-3-Clause",
     "private": true,
@@ -41,7 +41,7 @@
         "@dhis2/analytics": "^29.5.0",
         "@dhis2/app-runtime": "^3.17.0",
         "@dhis2/data-engine": "^3.17.0",
-        "@dhis2/ui": "^10.14.0",
+        "@dhis2/ui": "^10.16.2",
         "classnames": "^2.5.1",
         "react-router-dom": "^6.4.1",
         "use-query-params": "^2.1.1"
